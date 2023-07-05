@@ -1,0 +1,63 @@
+
+
+
+    body {
+        background-color: 
+        background-image: url("bgimg.jpg");
+        background-repeat: no-repeat;
+        background-position: right top;
+      }
+.text-1{
+    background-color: rgba(16, 1, 1, 0.5);
+    width: 250pt;
+    border: 10pt ridge rgb(234, 232, 227);
+    padding: 40pt;
+    margin: 15pt;
+
+}
+    
+  
+.box{
+    margin-top: -90px;
+    margin: 50px;
+    background-color: rgba(00, 00, 00, .5);
+    width: 200px;
+    height: 100px;
+text-align: center;
+}
+.squre{
+    width: 200px;
+    height: 200px;
+    padding: 50px; 
+    margin: 50px;
+    
+}
+
+.red{
+    background-color: red;
+
+}
+
+.green{ 
+    background-color: green;
+
+}
+
+
+
+
+
+
+
+
+
+
+.page-1{
+    background-color: #817ca3;
+    color: rgb(170, 195, 160);
+    font-size: 40px;
+    padding: 0.0001px 7px;
+    text-align:end;
+    text-decoration: none;
+    display: inline-block;
+}

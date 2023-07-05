@@ -1,0 +1,48 @@
+body{
+    background-color: blanchedalmond;
+}
+
+a:link, a:visited {
+        background-color: #f44336;
+        color: white;
+        padding: 0.0001px 7px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;}
+    
+
+a:hover, a:active {
+background-color: rgb(224, 217, 217);
+}
+aside {
+    font-size: 20px;
+    color: rgb(20, 2, 2);
+    border: 3px dashed rgb(63, 53, 112);
+    width: 30%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right;
+    font-style: italic;
+    background-color: rgb(109, 89, 89);
+  }
+
+
+  th, td {
+    border: 2px solid rgb(47, 141, 55);
+    border-radius: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 5px;
+    background-color: ;
+}
+ table td,td {
+    width: 10%;
+    height: auto;
+    border-spacing: 150px;
+    background-color: rgba(150,212,212);
+    background-color: ;
+     }
+tr{
+    background-color: azure;
+}
